@@ -1,0 +1,57 @@
+body{
+	background-image: linear-gradient(white, black);
+}
+h1{
+	font-family:major mono display;
+	color:white;
+	
+}
+.first{
+	background-color:grey;
+	padding:10px;
+}
+a {
+	color:black;
+	font-size:30px;
+	font-family:teko;
+}
+.box{
+	border:10px solid;
+	background-color:
+}
+.img-2{
+	width:50%;
+}
+.row-1{
+	background-color:black;
+}
+li{
+	font-family:teko;
+	text-align:center;
+	font-size:50px;
+	color:white;
+}
+.row{
+	text-align:center;
+}
+ul{
+	list-style:none;
+}
+img{
+	border:10px solid;
+	border-radius: 50px 20px;
+}
+p{
+	font-family:teko;
+	text-align:center;
+	font-size:40px;
+	color:white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color:white;
+  font-size:80px;
+  font-family:staatliches;
